@@ -9,11 +9,9 @@
   <ItemGroup>
     <None Include="libs\libsoundio.so">
       <Link>libsoundio.so</Link>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="libs\libsoundio.dylib">
       <Link>libsoundio.dylib</Link>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 </Project>
